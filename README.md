@@ -1,7 +1,9 @@
 # E-Commerce Data Pipeline: MySQL Database Design, ETL, and SQL Analytics
 by Mochammad Wahyu Suryansyah
 
-A side project from designing a database schema with MySQL to building an ETL pipeline with Jupyter Notebook for data analysis and optimization.
+![Architecture](./pipeline_arch.png)
+
+From designing a database schema with MySQL to building an ETL pipeline with Jupyter Notebook for data analysis and optimization.
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end ETL pipeline and SQL-based analysis for an e-commerce dataset. The pipeline extracts data from multiple CSV files, transforms and cleans the data in Python, loads it into a MySQL relational database, and then performs insightful business analyses via SQL queries.
